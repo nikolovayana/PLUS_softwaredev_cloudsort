@@ -19,16 +19,16 @@ This property is for the whole imnage scene and not for a single area of interes
 
 ## Goals
     _your goals of what each of you wants to learn more about (e.g. a specific python package, writing and using functions, building a python package, writing documentation, ...)_
-###Yana Nikolova
+### Yana Nikolova
 Learn about the Python API, because you mostly worked with Java Script before.
 
-###Miracle Chinwe Owhorji
+### Miracle Chinwe Owhorji
 Learn more about Cloud coverage and image pre-processing.
 
-###Damilola Oluwaseun Alfred
+### Damilola Oluwaseun Alfred
 Learn more about Python packages and functions and practically applying them.
 
-###Lea Effertz
+### Lea Effertz
 Learn more about the GEE-Python API and working with image sorting.
 
 ## Responsibilities  
