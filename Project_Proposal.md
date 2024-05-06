@@ -12,26 +12,35 @@ as that is very ressource intensive.
 Conventionally, filtering cloud free images in Google Earth Engine is done with the `.sort`- Algorithm, using the property `'CLOUD_COVER'`. 
 This property is for the whole imnage scene and not for a single area of interest. We want to create a custom package that solves that issue.
 
+- image masked in two categories
+   - creating new nr for the area of interest
+   - create function that creates new cloud coverage
+   - sort by new nrs
+
 ## Goals
-    your goals of what each of you wants to learn more about (e.g. a specific python package, writing and using functions, building a python package, writing documentation, ...)
+    _your goals of what each of you wants to learn more about (e.g. a specific python package, writing and using functions, building a python package, writing documentation, ...)_
 ###Yana Nikolova
+Learn about the Python API, because you mostly worked with Java Script before.
 
 ###Miracle Chinwe Owhorji
+Learn more about Cloud coverage and image pre-processing.
 
 ###Damilola Oluwaseun Alfred
+Learn more about Python packages and functions and practically applying them.
 
 ###Lea Effertz
- - learning more about the GEE-Python API and working with image sorting.
+Learn more about the GEE-Python API and working with image sorting.
 
-## responsibilities  
+## Responsibilities  
 Include who is responsible for what (this can change any time, but you will have to explain why later)
-###Yana Nikolova
 
-###Miracle Chinwe Owhorji
+### Yana Nikolova
 
-###Damilola Oluwaseun Alfred
+### Miracle Chinwe Owhorji
 
-###Lea Effertz
+### Damilola Oluwaseun Alfred
+
+### Lea Effertz
 
 ## Time planning
 *Deadline*: End of August 2024
