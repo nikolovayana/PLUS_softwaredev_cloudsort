@@ -15,10 +15,13 @@
 
 - set sample imagery source
 
-- create pseudo code for cloud coverage
+- create pseudo code for cloud coverage 
 
 # 3. Determine overall Cloud cover based on AOI
 
+- filter Image collection with low cloud-threshold (50-60%)
+- Set smaller AOI
+- create pixel level cloud mask for AOI -> see `learning_resources.md`
 
 # 4. Sort by Cloud Coverage in AOI
 
